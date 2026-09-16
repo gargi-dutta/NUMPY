@@ -9,9 +9,15 @@ This repository contains my learning journey and hands-on practice with **NumPy 
 ## 📂 Project Structure
 
 | File | Description |
-|------|-------------|
-| 📘 `phase-1.ipynb` | NumPy fundamentals and basic array operations |
-| 📗 `phase-2.ipynb` | NumPy concepts, operations and practice |
+| :--- | :--- |
+| `phase-1.ipynb` | Numpy Foundation, creation of array and methods |
+| `phase-2.ipynb` | Operations on numpy array |
+| `phase-3.ipynb` | Practice with real world data |
+| `phase-4.ipynb` | Storing image in Matrix and converting image in dark mode |
+| `array1.npy` | Sample numpy array file 1 |
+| `array2.npy` | Sample numpy array file 2 |
+| `array3.npy` | Sample numpy array file 3 |
+| `numpy-logo.npy` | NumPy logo array data |
 
 ---
 
